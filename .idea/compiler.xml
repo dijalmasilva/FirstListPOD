@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="questao01" />
+        <module name="questao02" />
+        <module name="questao03" />
+        <module name="questao04" />
+        <module name="questao05" />
+        <module name="questao06" />
+        <module name="questao07" />
+        <module name="questao08" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Exercisearchitectural" target="1.5" />
+      <module name="questao01" target="1.5" />
+      <module name="questao02" target="1.5" />
+      <module name="questao03" target="1.5" />
+      <module name="questao04" target="1.5" />
+      <module name="questao05" target="1.7" />
+      <module name="questao06" target="1.7" />
+      <module name="questao07" target="1.5" />
+      <module name="questao08" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
